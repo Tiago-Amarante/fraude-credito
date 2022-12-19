@@ -1,2 +1,1 @@
-# fraude-credito
-Estudo sobre fraude em compras de cartão de crédito
+# Projeto fraude em cartão de crédito
