@@ -2,7 +2,7 @@
 
 O objetivo deste projeto é utilizar uma base de estudos, contendo 30 variáveis resultantes de uma transformação por análise de componentes principais (PCA). A base de dados contem transações de cartões de crédito de um banco europeu durante 48h.
 
-O desafio deste projeto está no fato da base ser altamente desbalanceada, portanto, utilizo técnicas de down e under sampling para tratar o problema. Além de toda a análise expliratória da base.
+O desafio deste projeto está no fato da base ser altamente desbalanceada, portanto, utilizo técnicas de over e under sampling para tratar o problema. Além de toda a análise expliratória da base.
 
 Conclusão
 
